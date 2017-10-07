@@ -6,6 +6,9 @@ import static org.junit.Assert.assertEquals;
 
 public class ContinuousArrayTest {
 
+    /**
+     *
+     */
     @Test
     public void testAlmostIncreasingSequenceOne() {
         int array[] = {-30, -19, 123, -17, -5, 1, 2, 3, 12, 43, 45} ;
